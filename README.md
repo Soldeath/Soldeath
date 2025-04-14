@@ -66,5 +66,5 @@ I bring a unique lens from cybersecurity, project delivery, and advisory work—
 </div>
 
 ## Projects
-- <a href="https://github.com/Soldeath/Cybersecurity-Program/blob/main/README.md">Cybersecurity Program</a>|
+- <a href="https://github.com/Soldeath/Cybersecurity-Program/blob/main/README.md">Cybersecurity Program</a>
 - SOC Automation Project
