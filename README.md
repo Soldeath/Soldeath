@@ -18,7 +18,7 @@ I bring a unique lens from cybersecurity, project delivery, and advisory work—
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Designing a Cybersecurity Program             | <a href="https://github.com/Soldeath/Cybersecurity-Program/blob/main/README.md">Cybersecurity Program</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -30,10 +30,11 @@ I bring a unique lens from cybersecurity, project delivery, and advisory work—
 
 ### Cloud
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-1679A7?&style=for-the-badge&logo=AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure-EF3B2D?&style=for-the-badge&logo=Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Terraform-777BB4?&style=for-the-badge&logo=Terraform&logoColor=white" />
 </div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -65,5 +66,5 @@ I bring a unique lens from cybersecurity, project delivery, and advisory work—
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Soldeath/Cybersecurity-Program/blob/main/README.md">Cybersecurity Program</a>|
 - SOC Automation Project
