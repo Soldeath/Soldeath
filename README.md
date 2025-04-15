@@ -30,14 +30,19 @@ I bring a unique lens from cybersecurity, project delivery, and advisory work—
     <img src="https://img.shields.io/badge/-Nessus-1679A7?&style=for-the-badge&logo=Nessus&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-EF3B2D?&style=for-the-badge&logo=Metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-Autopsy-777BB4?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Okta (IAM)-1679A7?&style=for-the-badge&logo=Okta&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Workspace ONE-EF3B2D?&style=for-the-badge&logo=VMware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure AD Connect-777BB4?&style=for-the-badge&logo=Azure&logoColor=white" />
 </div>
 
 
-### Cloud
+### Cloud & Virtualization
 <div>
     <img src="https://img.shields.io/badge/-AWS-1679A7?&style=for-the-badge&logo=AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure-EF3B2D?&style=for-the-badge&logo=Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Terraform-777BB4?&style=for-the-badge&logo=Terraform&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware-1679A7?&style=for-the-badge&logo=VMware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Salesforce-777BB4?&style=for-the-badge&logo=Salesforce&logoColor=white" />
 </div>
 
 ### Network
@@ -45,17 +50,17 @@ I bring a unique lens from cybersecurity, project delivery, and advisory work—
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-### Security Assessments
+### Governance, Risk and Compliance (GRC)
 <div>
     <img src="https://img.shields.io/badge/-NIST_CSF-00A4EF?&style=for-the-badge&logo=NIST&logoColor=white" />
     <img src="https://img.shields.io/badge/-ISO_27001-4B275F?&style=for-the-badge&logo=ISO&logoColor=white" />
 </div>
 
-### SIEM
+### DevSecOps & Automation
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Github-0078D4?&style=for-the-badge&logo=Github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CI/CD-000000?&style=for-the-badge&logo=CI/CD&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-005571?&style=for-the-badge&logo=Bash&logoColor=white" />
 </div>
 
 ## Certifications
@@ -63,11 +68,12 @@ I bring a unique lens from cybersecurity, project delivery, and advisory work—
 <div>
 <img src="https://img.shields.io/badge/-VMWare_Certified_Associate_Cloud%2B-FF0000?&style=for-the-badge&logo=VMware&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft_Technology_Associate_Database_Fundamentals%2B-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS Security Specialty-4D4D4D?&style=for-the-badge&logo=AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-AZ_500-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCSP%2B-FF0000?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
 ## Projects
 - <a href="https://github.com/Soldeath/Cybersecurity-Program/blob/main/README.md">Cybersecurity Program</a>
 - SOC Automation Project
+
