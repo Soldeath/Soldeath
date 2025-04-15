@@ -26,6 +26,11 @@ I bring a unique lens from cybersecurity, project delivery, and advisory work—
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
+<div>
+    <img src="https://img.shields.io/badge/-Nessus-1679A7?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-EF3B2D?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Autopsy-777BB4?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+</div>
 
 
 ### Cloud
@@ -38,14 +43,12 @@ I bring a unique lens from cybersecurity, project delivery, and advisory work—
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### Security Assessments
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NIST_CSF-00A4EF?&style=for-the-badge&logo=NIST&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ISO_27001-4B275F?&style=for-the-badge&logo=ISO&logoColor=white" />
 </div>
 
 ### SIEM
@@ -58,8 +61,8 @@ I bring a unique lens from cybersecurity, project delivery, and advisory work—
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-VMWare_Certified_Associate_Cloud%2B-FF0000?&style=for-the-badge&logo=VMware&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_Technology_Associate_Database_Fundamentals%2B-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
