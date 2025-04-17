@@ -29,14 +29,24 @@ I bring a unique lens from cybersecurity, project delivery, and advisory work—
 <div>
     <img src="https://img.shields.io/badge/-Nessus-1679A7?&style=for-the-badge&logo=Nessus&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-EF3B2D?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Autopsy-777BB4?&style=for-the-badge&logo=Autopsy&logoColor=white" />
     <img src="https://img.shields.io/badge/-Okta (IAM)-1679A7?&style=for-the-badge&logo=Okta&logoColor=white" />
     <img src="https://img.shields.io/badge/-Workspace ONE-EF3B2D?&style=for-the-badge&logo=VMware&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure AD Connect-777BB4?&style=for-the-badge&logo=Azure&logoColor=white" />
 </div>
 
+### Forensics
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Autopsy-777BB4?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+</div>
 
-### Cloud & Virtualization
+### Web Application Assessment
+<div>
+    <img src="https://img.shields.io/badge/Burp_Suite-1679A7?&style=for-the-badge&logo=Burp_Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP_ZAP-777BB4?&style=for-the-badge&logo=OWASP_ZAP&logoColor=white" />
+</div>
+
+## Cloud & Virtualization
 <div>
     <img src="https://img.shields.io/badge/-AWS-1679A7?&style=for-the-badge&logo=AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure-EF3B2D?&style=for-the-badge&logo=Azure&logoColor=white" />
@@ -45,18 +55,18 @@ I bring a unique lens from cybersecurity, project delivery, and advisory work—
     <img src="https://img.shields.io/badge/-Salesforce-777BB4?&style=for-the-badge&logo=Salesforce&logoColor=white" />
 </div>
 
-### Network
+## Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-### Governance, Risk and Compliance (GRC)
+## Governance, Risk and Compliance (GRC)
 <div>
     <img src="https://img.shields.io/badge/-NIST_CSF-00A4EF?&style=for-the-badge&logo=NIST&logoColor=white" />
     <img src="https://img.shields.io/badge/-ISO_27001-4B275F?&style=for-the-badge&logo=ISO&logoColor=white" />
 </div>
 
-### DevSecOps & Automation
+## DevSecOps & Automation
 <div>
     <img src="https://img.shields.io/badge/-Github-0078D4?&style=for-the-badge&logo=Github&logoColor=white" />
     <img src="https://img.shields.io/badge/-CI/CD-000000?&style=for-the-badge&logo=CI/CD&logoColor=white" />
