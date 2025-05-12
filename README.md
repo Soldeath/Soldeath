@@ -4,9 +4,11 @@
 
 ## Introduction
 
-🔐 I'm a Cloud Security Engineer with hands-on experience across AWS, Azure, and enterprise RBAC systems. From designing secure infrastructure and fine-tuning identity policies to deploying vulnerability scanners and automation pipelines—I blend sharp technical skills with strategic thinking.
+🔐 I'm a cybersecurity leader with hands-on experience in cloud security across AWS, Azure, and enterprise identity systems. My work spans designing secure architectures, refining RBAC and IAM frameworks, and deploying scalable vulnerability management solutions and automation pipelines.
 
-I bring a unique lens from cybersecurity, project delivery, and advisory work—now laser-focused on enabling secure cloud transformations. I'm currently pursuing advanced certifications (AWS Sec-Specialty, CCSP), with a passion for continuous learning and cross-cultural collaboration. I just completed a Masters of Science in Cybersecurity. 
+With a background that bridges cybersecurity, project delivery, and strategic advisory. I bring a holistic approach to secure digital transformation. I'm especially focused on supporting organizations across Southeast Asia and Australia as they navigate complex security and compliance landscapes.
+
+I hold a Master of Science in Cybersecurity and am currently advancing my credentials with AWS Security Specialty and CCSP certifications. Committed to continuous learning, I thrive in cross-cultural, collaborative environments and am passionate about enabling resilient, secure cloud ecosystems across the region.
 
 ## Objective
 
@@ -20,10 +22,10 @@ I bring a unique lens from cybersecurity, project delivery, and advisory work—
 |-----------------------------------------------|----------------------------|
 | Designing a Cybersecurity Program             | <a href="https://github.com/Soldeath/Cybersecurity-Program/blob/main/README.md">Cybersecurity Program</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | TBD|
+| Incident Response Planning and Execution      | TBD|
+| Case Management with TheHive                  | TBD|
+| Scripting and Automation for Threat Mitigation | TBD|
 
 ## Tools
 <div>
