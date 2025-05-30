@@ -10,9 +10,11 @@ With a background that bridges cybersecurity, project delivery, and strategic ad
 
 I hold a Master of Science in Cybersecurity and am currently advancing my credentials with AWS Security Specialty and CCSP certifications. Committed to continuous learning, I thrive in cross-cultural, collaborative environments and am passionate about enabling resilient, secure cloud ecosystems across the region.
 
+<!--- ADD THM Stuff here as well, refine the above so its more or less agnostic of techy stuff --->
+
 ## Objective
 
-🌏 I’m seeking roles in Tokyo, Japan where I can grow with mission-driven teams, contribute to digital security maturity, and expand into architectural leadership.
+🌏 I’m seeking roles in South East Asia (Tokyo, Singapore, Hong Kong, Phillipiines) where I can grow with mission-driven teams, contribute to digital security maturity, and expand into architectural leadership.
 
 💡Let’s connect if you're building secure, scalable, and human-centric cloud environments.
 
@@ -26,6 +28,11 @@ I hold a Master of Science in Cybersecurity and am currently advancing my creden
 | Incident Response Planning and Execution      | TBD|
 | Case Management with TheHive                  | TBD|
 | Scripting and Automation for Threat Mitigation | TBD|
+| OAuth SSO Lab - Setting up SSO                 | TBD | 
+
+
+<!--- ADD more labs --->
+
 
 ## Tools
 <div>
