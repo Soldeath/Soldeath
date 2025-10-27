@@ -11,6 +11,7 @@ With a background that bridges cybersecurity, project delivery, and strategic ad
 I hold a Master of Science in Cybersecurity and am currently advancing my credentials with AWS Security Specialty and CCSP certifications. Committed to continuous learning, I thrive in cross-cultural, collaborative environments and am passionate about enabling resilient, secure cloud ecosystems across the region.
 
 <!--- ADD THM Stuff here as well, refine the above so its more or less agnostic of techy stuff --->
+<!--- As a cybersecurity strategist with strengths in vulnerability and risk management, cloud security and enterprise control frameworks, I uphold integrity, continuous learning and collaborative execution as core values. I am passionate about safeguarding organizations from evolving cyber-threats and aligning technical controls (e.g., IAM, SIEM, hardening) with business priorities. I leverage my experience with frameworks like NIST 800-53/CSF and hands-on automation to help organizations achieve resilient, compliant and measurable security outcomes. --->
 
 ## Objective
 
